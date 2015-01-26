@@ -8,7 +8,7 @@ Please be noted that currently RESTier is still a preview version.
 
 ## Documentation / Tutorials
 
-Please refer to the [RESTier wiki pages](https://github.com/OData/RESTier/wiki).
+Please refer to the [RESTier pages](http://odata.github.io/RESTier/).
 
 ## Call to action
 
